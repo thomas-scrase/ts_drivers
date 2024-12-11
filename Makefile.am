@@ -1,1 +1,2 @@
-SUBDIRS = test_monodomain
+SUBDIRS = test_monodomain \
+          test_anisotropic_solid
